@@ -1,0 +1,61 @@
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+*.so
+
+# ── PyInstaller (build e dist) ────────────────────────────
+build/
+dist/
+*.spec
+*.rar
+
+# ── Recorde local (gerado em tempo de execução) ───────────
+scores.json
+
+# ── Ambientes virtuais ────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ── IDEs e editores ───────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Sistema operacional ───────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Arquivos temporários ──────────────────────────────────
+*.tmp
+*.temp
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Sistema operacional ───────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Screenshots de desenvolvimento ───────────────────────
+*.png
+*.webp
