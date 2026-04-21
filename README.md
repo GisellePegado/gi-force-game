@@ -213,7 +213,7 @@ Contribuições são bem-vindas! Por favor, veja [CONTRIBUTING.md](CONTRIBUTING.
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## 👩‍💻 Autor
+## 👩‍💻 Autora
 
 - **Giselle Pegado** · ADS — UNINTER · 2026 — [GitHub](https://github.com/GisellePegado)
 
